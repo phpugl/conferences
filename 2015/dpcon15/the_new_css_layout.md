@@ -11,9 +11,9 @@ Grid, Regions, Exclusions and Shapes.
 Sources
 -------
 
- * Talk <http://www.slideshare.net/rachelandrew/the-new-css-layout-dutch-php-conference>
- * Twitter <https://twitter.com/rachelandrew>
- * Github <https://github.com/rachelandrew>
+ * Talk: <http://www.slideshare.net/rachelandrew/the-new-css-layout-dutch-php-conference>
+ * Twitter: <https://twitter.com/rachelandrew>
+ * Github: <https://github.com/rachelandrew>
 
 Notes
 -----

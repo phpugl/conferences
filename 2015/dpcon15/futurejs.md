@@ -13,9 +13,9 @@ most exciting new ES6 features as well as how to start using them right now than
 Sources
 -------
   
-  * Talk <https://github.com/kubawalinski/dpc15-futurejs>
-  * Twitter <https://twitter.com/kubawalinski>
-  * Github <https://github.com/kubawalinski>
+  * Talk: <https://github.com/kubawalinski/dpc15-futurejs>
+  * Twitter: <https://twitter.com/kubawalinski>
+  * Github: <https://github.com/kubawalinski>
 
 Notes
 -----
@@ -27,6 +27,6 @@ Notes
  * Features
    * Arrow functions solve the problem with "this" scopes (x=>x+2)
    * Destructing
-   *let / const vs var
+   * let / const vs var
    * export / import
 

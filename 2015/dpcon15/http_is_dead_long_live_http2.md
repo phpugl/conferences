@@ -9,10 +9,10 @@ in HTTP/2 and what it means for you.
 Sources
 -------
 
- * Talk <https://benramsey.com/talks/2015/06/dpc-http2/>
- * Blog <https://benramsey.com/>
- * Twitter <https://twitter.com/ramsey>
- * Github <https://github.com/ramsey>
+ * Talk: <https://benramsey.com/talks/2015/06/dpc-http2/>
+ * Blog: <https://benramsey.com/>
+ * Twitter: <https://twitter.com/ramsey>
+ * Github: <https://github.com/ramsey>
 
 Notes
 -----

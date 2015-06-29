@@ -7,9 +7,9 @@ but hard to understand. Let’s take some ugly legacy code and refactor it into 
 Sources
 -------
 
- * Talk & Demo <https://github.com/scato/solid-refactoring>
- * Twitter <https://twitter.com/scataco>
- * Github <https://github.com/scato>
+ * Talk & Demo: <https://github.com/scato/solid-refactoring>
+ * Twitter: <https://twitter.com/scataco>
+ * Github: <https://github.com/scato>
 
 Notes
 -----

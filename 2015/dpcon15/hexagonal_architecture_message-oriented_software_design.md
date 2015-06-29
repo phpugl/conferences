@@ -1,5 +1,5 @@
 Matthias Noback - "Hexagonal archicture - message-oriented software design"
-###########################################################################
+===========================================================================
 
 Commands, events, queries - three types of messages that travel through your application. Some originate from the web, 
 some from the command-line. Your application sends some of them to a database, or a message queue. What is the ideal
@@ -13,22 +13,23 @@ aspects of these connections from the core behavior of your application by imple
 *command bus*, and design principles like *dependency inversion*.
 
 Sources
-=======
+-------
 
- * Talk <http://www.slideshare.net/matthiasnoback/hexagonal-architecture-messageoriented-software-design>
- * Blog <http://php-and-symfony.matthiasnoback.nl/>
- * Twitter <https://twitter.com/matthiasnoback>
- * Github <https://github.com/matthiasnoback>
+ * Talk: <http://www.slideshare.net/matthiasnoback/hexagonal-architecture-messageoriented-software-design>
+ * Blog: <http://php-and-symfony.matthiasnoback.nl/>
+ * Twitter: <https://twitter.com/matthiasnoback>
+ * Github: <https://github.com/matthiasnoback>
 
 Notes
-=====
+-----
 
  * Framework will encapsulate you from the rest. Hard to follow messages.
  * Encapsulation vs. Abstraction
  * Domain-Driven
 
  * Core should be a polygon with borders that only messages could pass.
-   
+
+```
                   /--------------------------------------\
                  /                /------\                \
      outer world | infrastructure | core | infrastructure | outer world
@@ -37,6 +38,7 @@ Notes
     
      message --|-->
 
+```
 
  * Each edge/border is a port to the core.
    

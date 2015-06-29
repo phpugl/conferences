@@ -8,9 +8,9 @@ emerging open-source projects, like ReactPHP and Ratchet, PHP developers can joi
 Sources
 -------
 
- * Talk <https://speakerdeck.com/chrispitt/async-php-1>
- * Twitter <https://twitter.com/assertchris>
- * Github <https://github.com/assertchris>
+ * Talk: <https://speakerdeck.com/chrispitt/async-php-1>
+ * Twitter: <https://twitter.com/assertchris>
+ * Github: <https://github.com/assertchris>
 
 Notes
 -----

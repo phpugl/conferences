@@ -11,10 +11,10 @@ of servers.
 Sources
 -------
 
- * Talk <https://speakerdeck.com/erikaheidi/automation-made-simple-with-ansible-1>
- * Blog <http://www.erikaheidi.com>
- * Twitter <https://twitter.com/erikaheidi>
- * Github <https://github.com/erikaheidi>
+ * Talk: <https://speakerdeck.com/erikaheidi/automation-made-simple-with-ansible-1>
+ * Blog: <http://www.erikaheidi.com>
+ * Twitter: <https://twitter.com/erikaheidi>
+ * Github: <https://github.com/erikaheidi>
 
 Notes
 -----
